@@ -7,7 +7,7 @@ Universidad Adventista de Bolivia
 Taller de Programacion
 
 ## Estudiante
-Juan Daniel Ancieta Tovedo
+Juan Daniel Ancieta Toledo
 
 ## Nombre del proyecto
 Mi Primer Servidor con Laravel
